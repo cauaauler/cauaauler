@@ -1,4 +1,6 @@
 # Bem vindo(a) ao meu github
+
+<img src="boas_vindas.png" width="50%">
 <!--
 **cauaauler/cauaauler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

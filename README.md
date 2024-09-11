@@ -34,7 +34,7 @@ Sou um desenvolvedor fullstack apaixonado por backend e um entusiasta de intelig
 
 
 
-## Projetos Destacados
+## Projetos Importantes
 
 ### Codificando Sonhos - [ link para o projeto ](https://github.com/cauaauler/CardGame)
 O projeto é um jogo desenvolvido no IFRS - Campus Feliz, com o objetivo de promover a reflexão sobre diversidade, equidade e inclusão na área de tecnologia. Utilizando a Unity para o desenvolvimento, o jogo foi projetado para engajar os jogadores e fomentar uma discussão sobre esses temas cruciais.

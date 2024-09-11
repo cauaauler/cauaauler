@@ -44,9 +44,3 @@ O projeto é um jogo desenvolvido no IFRS - Campus Feliz, com o objetivo de prom
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=cauaauler&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cauaauler&layout=compact&theme=radical)
-
-## Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauaauler/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauaauler@gmail.com)
-

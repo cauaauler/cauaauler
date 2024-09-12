@@ -1,6 +1,6 @@
 # Olá, sou o Cauã. 
   <img src="boas_vindas.png" width="30%" align = "left">
-Sou um desenvolvedor fullstack apaixonado por backend e um entusiasta de inteligência artificial e aprendizado de máquina. Estou sempre em busca de novos desafios e oportunidades para aprender sobre tecnologias emergentes, aprimorar processos e criar soluções eficientes. Gosto de me manter atualizado e estou sempre pronto para mergulhar em projetos inovadores e interessantes :)
+Sou um desenvolvedor fullstack apaixonado por backend e um entusiasta de inteligência artificial. Estou sempre em busca de novos desafios e oportunidades para aprender sobre tecnologias emergentes, aprimorar processos e criar soluções eficientes. Gosto de me manter atualizado e estou sempre pronto para mergulhar em projetos inovadores e interessantes :)
 
 <br>
 <br>

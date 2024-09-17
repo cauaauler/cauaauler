@@ -12,7 +12,7 @@ Sou um desenvolvedor fullstack apaixonado por backend e um entusiasta de intelig
 ## Sobre Mim
 
 - 🎓 **Educação:** 3º ano do Técninco em Informatica IFRS - Campus Feliz
-- 🌱 **Aprendendo atualmente:** Bancos de dados não-relacionais e serviços AWS.
+- 🌱 **Aprendendo atualmente:** Bancos de dados não-relacionais, Angular e C#(ASP.NET)
 - 📫 **Como me contatar:** cauaauler@gmail.com 
 
 ## Tecnologias e Ferramentas

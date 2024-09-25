@@ -17,7 +17,7 @@ Sou um desenvolvedor fullstack apaixonado por backend e um entusiasta de intelig
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Linguagens: C#, Javascript, Typescript
+- Linguagens: C#, Java, Javascript, Typescript
 - Frameworks: Angular, .NET, TailwindCSS
 - Bancos de Dados: MySQL, SQLServer
 

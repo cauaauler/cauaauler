@@ -27,6 +27,8 @@ Sou um desenvolvedor fullstack apaixonado por backend e um entusiasta de intelig
 O projeto é um jogo desenvolvido no IFRS - Campus Feliz, com o objetivo de promover a reflexão sobre diversidade, equidade e inclusão na área de tecnologia. Utilizando a Unity para o desenvolvimento, o jogo foi projetado para engajar os jogadores e fomentar uma discussão sobre esses temas cruciais.
 ### Gerenciador de Resíduos para prefeituras - (projeto privado)
 Foi o projeto vencedor da hackathon do IFRS - Campus Feliz, foi desenvolvido com o tema 'Desastres Naturais no Brasil'. Diante das recentes enchentes no Rio Grande do Sul, nossa equipe decidiu criar um gerenciador de resíduos, focado na gestão eficiente de detritos e materiais pós-enchente. O desenvolvimento da aplicação foi concluído em 20 horas, destacando-se pela sua relevância e impacto prático frente às necessidades locais.
+### BookHub 
+...
 
 ## 🏆 Certificações
   - 🥇 1º Lugar na hackaton do IFRS - Campus Feliz, realizada em agosto de 2024.

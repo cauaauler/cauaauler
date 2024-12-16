@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil 🌻
   <!-- <img src="boas_vindas.png" width="30%" align = "left"> -->
-Sou um desenvolvedor fullstack apaixonado por backend e um entusiasta de inteligência artificial. Estou sempre em busca de novos desafios e oportunidades para aprender sobre tecnologias emergentes, aprimorar processos e criar soluções eficientes. Gosto de me manter atualizado e estou sempre pronto para mergulhar em projetos inovadores e interessantes 
+Sou desenvolvedor fullstack com foco em backend, especializado em criar soluções eficientes e em aprimorar processos. Tenho interesse em tecnologias emergentes e busco constantemente me atualizar sobre tendências do setor. Estou sempre preparado para contribuir em projetos desafiadores e inovadores.
 
 ## 📝 Sobre Mim
 

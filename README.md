@@ -4,7 +4,7 @@ Sou desenvolvedor fullstack com foco em backend, especializado em criar soluçõ
 
 ## 📝 Sobre Mim
 
-- 🎓 **Educação:** 4º ano do curso Técninco em Informatica integrado ao Ensino Médio no IFRS - Campus Feliz
+- 🎓 **Educação:** 4º ano do curso Técninco em Informática integrado ao Ensino Médio no IFRS - Campus Feliz
 - 🌱 **Aprendendo atualmente:** Angular, C#, .NET, ASP.NET, SQLServer, MongoDB, Azure
 - 📫 **Como me contatar:** cauaauler@gmail.com 
 

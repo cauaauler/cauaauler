@@ -24,7 +24,7 @@ Foi o projeto vencedor da hackathon do IFRS - Campus Feliz, foi desenvolvido com
 
 ## 🏆 Certificações
   - 🥇 1º Lugar na hackaton do IFRS - Campus Feliz, realizada em agosto de 2024.
-  - 🥇 1º Lugar na 12º Mostra Técninca do IFRS - Campus Feliz, na categorio pesquisa. Com o projeto Codificando Sonhos.
+  - 🥇 1º Lugar na 12º Mostra Técninca do IFRS - Campus Feliz, na categoria pesquisa. Com o projeto Codificando Sonhos.
 
 ## 📈 Estatísticas do GitHub
 <p align="center">

@@ -10,7 +10,7 @@ Sou desenvolvedor fullstack com foco em backend, especializado em criar soluçõ
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Linguagens: C#, Java, PHP, Javascript, Typescript
+- Linguagens: Python, C#, Java, PHP, Javascript, Typescript
 - Frameworks: Angular, .NET, TailwindCSS
 - Bancos de Dados: MySQL, SQLServer, MongoDB
 

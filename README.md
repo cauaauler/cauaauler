@@ -1,5 +1,5 @@
 
-Desenvolvedor fullstack com foco em backend, especializado em criar soluções eficientes e em aprimorar processos. Com interesse em tecnologias emergentes, buscando constantemente me atualizar sobre tendências da área. Sempre em busca de contribuir em projetos desafiadores e inovadores.
+### Desenvolvedor fullstack com foco em backend, especializado em criar soluções eficientes e em aprimorar processos. Com interesse em tecnologias emergentes, buscando constantemente me atualizar sobre tendências da área. Sempre em busca de contribuir em projetos desafiadores e inovadores.
 
 ## 📝 Sobre Mim
 

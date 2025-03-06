@@ -1,6 +1,5 @@
-# Bem vindo ao meu perfil 🌻
-  <!-- <img src="boas_vindas.png" width="30%" align = "left"> -->
-Sou desenvolvedor fullstack com foco em backend, especializado em criar soluções eficientes e em aprimorar processos. Tenho interesse em tecnologias emergentes e busco constantemente me atualizar sobre tendências do setor. Estou sempre preparado para contribuir em projetos desafiadores e inovadores.
+
+Desenvolvedor fullstack com foco em backend, especializado em criar soluções eficientes e em aprimorar processos. Com interesse em tecnologias emergentes, buscando constantemente me atualizar sobre tendências da área. Sempre em busca de contribuir em projetos desafiadores e inovadores.
 
 ## 📝 Sobre Mim
 
@@ -45,5 +44,3 @@ Foi o projeto vencedor da hackathon do IFRS - Campus Feliz, foi desenvolvido com
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 </div>
-<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
-<!-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) -->
